@@ -1,0 +1,24 @@
+Tools
+
+-- Gobuster: https://github.com/OJ/gobuster 
+    (a command-line security application)
+      ex: gobuster -u http://fakebank.thm -w wordlist.txt dir
+      In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
+            /images (Status: 301)
+            /bank-transfer (Status: 200)  --result
+
+-- Shodan: https://www.shodan.io/
+  (a search engine for devices connected to the Internet) Internet-connected devices and systems, such as servers, routers, webcams, and IoT devices
+    ex: https://www.shodan.io/search/examples
+
+-- Censys: https://search.censys.io/
+(similar to Shodan) focuses on Internet-connected hosts, websites, certificates, and other Internet assets
+
+-- VirusTotal: https://www.virustotal.com/gui/home/upload
+(online website that provides a virus-scanning service for files using multiple antivirus engines)
+
+-- Have I Been Pwned: https://haveibeenpwned.com/ 
+( it tells you if an email address has appeared in a leaked data breach)
+
+-- CVE: https://www.cve.org/
+-- Exploit Database: https://www.exploit-db.com/
