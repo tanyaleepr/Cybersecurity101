@@ -20,7 +20,16 @@ wget = to download the file using the MACHINE_IP address and the name of the fil
 ps = command to provide a list of the running processes as our user's session and some additional information such as its status code, the session that is running it, how much usage time of the CPU it is using, and the name of the actual program or command that is being executed
 nano filename = text editors
 vim = https://vim.rtorr.com/
-
+ipconfig = This command will show the network address settings for the computer
+ipconfig /all = or more information about your network configuration. As shown in the terminal below, we can view our DNS servers and confirm that DHCP is enabled.
+netstat = this command will display protocol statistics and current TCP/IP network connections
+net = command is primarily used to manage network resources. This command supports sub-commands
+net user 
+systeminfo = command to list various information about the system such as OS information, system details, processor and memory.
+nslookup = It looks up a host or domain and returns its IP address. ex nslookup example.com 1.1.1.1
+tree = to visually represent the child directories and subdirectories.
+tasklist = 
+sfc /scannow = scans system files for corruption and repairs them if possible.
 
 
 
