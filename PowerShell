@@ -1,0 +1,13 @@
+Get-Content: Retrieves (gets) the content of a file and displays it in the console
+Set-Location: Changes (sets) the current working directory.
+Get-Help: it provides detailed information about cmdlets, including usage, parameters, and examples.
+Get-Alias lists all aliases available
+Get-ChildItem lists the files and directories in a location specified with the -Path parameter
+Get-ChildItem retrieves the files (as objects), and the pipe (|) sends those file objects to Sort-Object, which then sorts them by their Length (size) property.
+Get-ComputerInfo cmdlet retrieves comprehensive system information, including operating system information, hardware specifications, BIOS details, and more
+Get-LocalUser lists all the local user accounts on the system
+Get-NetIPConfiguration provides detailed information about the network interfaces on the system, including IP addresses, DNS servers, and gateway configurations.
+Get-NetIPAddress cmdlet will show details for all IP addresses configured on the system, including those that are not currently active.
+Get-Process provides a detailed view of all currently running processes, including CPU and memory usage, making it a powerful tool for monitoring and troubleshooting
+Get-Service allows the retrieval of information about the status of services on the machine, such as which services are running, stopped, or paused. It is used extensively in troubleshooting by system administrators, but also by forensics analysts hunting for anomalous services installed on the system.
+Get-FileHash as a useful cmdlet for generating file hashes, which is particularly valuable in incident response, threat hunting, and malware analysis, as it helps verify file integrity and detect potential tampering.
