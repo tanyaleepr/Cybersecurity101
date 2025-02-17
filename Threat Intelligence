@@ -46,8 +46,14 @@ ISACs Centers:
 
 Diamond Model of Intrusion Analysis
 !(https://www.socinvestigation.com/wp-content/uploads/2021/09/FIN8.png)
-- Adversary: who are they? what country? motivation? ideology? etc
-- 
+- Adversary ( who are they? what country? motivation? ideology? etc)
+- Capability
+- Infrastructure (physical servers, endpoints, malicious domains, etc)
+- Victim (connects to the attack
+
 
 Resources:
 - https://www.socinvestigation.com/threat-intelligence-diamond-model-of-intrusion-analysis/
+- https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf
+- https://insights.sei.cmu.edu/documents/1259/2016_005_001_454247.pdf
+
