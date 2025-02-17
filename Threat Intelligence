@@ -1,0 +1,53 @@
+Types of Threat Intelligence:
+
+1. Strategic
+  - High level analysis: trends, risks, impacts
+  - Threat actor motives, goals, and capabilities
+  - Deciding long-term security strategy
+2. Tactical
+  - Tactics, techniques, and procedures (TTPs)
+  - Threat actor behavior and methodologies
+3. Operational
+  - Imminent threats, plans, and timelines
+  - Tracking threat actors and groups
+4. Technical
+  - Tools, infrastructure, and technical capabilities
+  - Indicators of Compromise (IOCs)
+  - Integrate into tooling to enhance detection methods
+
+Resources:
+https://www.mandiant.com/sites/default/files/2021-09/APT28-Center-of-Storm-2017.pdf
+https://attack.mitre.org/
+
+Intelligence Cycle:
+1. Requirements and Direction (Planning)
+2. Collection (Processing)
+3. Analysis
+4. Dissemination
+5. Feedback
+
+OSINT:
+- Dark web, forums, social media
+- Passive recon, vulnerability, and malware databases
+- Public repositories
+Comercial Threat Intelligence:
+- Third-party vendors
+- Proprietary subscription-based threat feeds
+- IOCs, malware signatures, attack patterns
+Vendor Reports and Security Research:
+- Published reports and whitepapers
+ISACs Centers:
+ - Auto - ISAC
+ - Aviation ISAC
+ - Water ISAC
+ - Electricity: E-ISAC
+ - Space ISAC
+
+
+Diamond Model of Intrusion Analysis
+!(https://www.socinvestigation.com/wp-content/uploads/2021/09/FIN8.png)
+- Adversary: who are they? what country? motivation? ideology? etc
+- 
+
+Resources:
+- https://www.socinvestigation.com/threat-intelligence-diamond-model-of-intrusion-analysis/
