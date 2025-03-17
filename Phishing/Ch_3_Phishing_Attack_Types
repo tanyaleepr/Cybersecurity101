@@ -1,1 +1,62 @@
-Types and techniques
+Types of attacks and techniques
+
+Types Phishing Attacks:
+- Information Gathering
+  - Collecting data
+  - Verifying existing accounts
+- Credential Harvesting
+  - Obtain login credentials from victims
+  - Fake login pages, deceptive URLs
+- Malware Delivery
+  - Malicious attachments or links
+- Spear Phishing
+  - Targeted phishing
+  - Research specific individuals or orgs
+- Whaling
+  - Targeting high-profile individuals like CEOs, etc
+- Vishing, SMiShing, Quishing
+  - Attempts to obtains info from the phone
+  - SMS messages containing malicious URLs
+  - QR codes leading to malicious URLs
+- Business Email Compromise (BEC)
+  - Compromising legitimate email accounts
+  - Unauthorized wire transfers, invoice scams
+- Spam
+  - Unsolicited, irrelevant, and unwanted email
+
+
+Attack Techniques:
+
+- Pretexting
+  - Manipulation and fake news
+- Spoofing and Impersonation
+  - Email address spoofing
+  - Domain spoofing
+- URL Manipulation
+  - URL Shortening
+  - Subdomain Spoofing
+  - Homograph Attacks
+  - Typosquatting
+- Encoding
+  - Obfuscate and evade detection
+  - Base64, URL encoding, HTML encoding
+  - Obscure JavaScript
+- Attachments
+  - Download and execute
+- Abuse of Legitimate Services
+  - Google Drive, Dropbox, etc.
+  - Using trusted reputations to send malware
+- Pharming
+  - Two-step technique
+  - Malware-based Pharming
+
+
+
+References:
+https://bitly.com
+https://unshorten.it
+https://www.irongeek.com/homoglyph-attack-generator.php
+https://github.com/elceef/dnstwist
+https://dnstwist.it/
+https://dnstwister.report/
+https://phishtank.org/
