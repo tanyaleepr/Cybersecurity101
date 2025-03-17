@@ -1,1 +1,30 @@
 Methodology, email header, sender, authentication, content, attachment, url analysis, etc.
+
+Methodology:
+- Initial Triage
+  - Quickly assess and prioritize
+- Header and Sender Examination
+  - Investigate MTAs, addressess, IPs
+  - Identify the true origin and check authenticity
+- Content Examination
+  - Analyze email content for language, formatting, etc
+  - Look for social engineering red flags
+- Web and URL examination
+  - Collect web artifacts
+  - Utilize tools to inspect URLs and domains
+- Attachment Examination
+  - Securely extract and analyze attachments
+  - Checking file reputation and sandboxing
+- Contextual Examination
+  - Consider broader context, recent or current incidents
+  - Look for patterns and assess scope
+- Defense Measures
+  - Take reactive actions (if needed)
+  - Take proactive defense actions
+  - Communicate with users and stakeholders
+- Documentation and Reporting
+  - Maintain records of findings, verdicts, and actions taken
+  - Document the incident and close tickets
+
+
+Email Header:
