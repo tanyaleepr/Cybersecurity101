@@ -1,0 +1,65 @@
+Sender to Mail Server (Google, Yahoo, etc) to Recipient's Mail Server to Recipient
+
+Email Structure:
+
+Email Headers - are the lines of metadata that contains useful strings for information and investigations.
+
+    You can see the metadata of:
+    - From
+    - Date
+    - Message-ID
+    - Subject
+    - To
+    - Reply-to
+    - Return-Path
+    - etc
+
+
+Email Body - is the main content of an email message. It contains text, images, links, attachments, etc.
+
+Example of email address:
+
+john.john@example.com
+
+john.john is the local address of a mailbox
+
+@example.com is the domain part having the .com as the Top-Level Domain (TLD)
+
+
+Vocabulary:
+- SMTP
+    - Simple Mail Transfer Protocol
+    - Used to send outgoing mail
+    - Port 25(or 465, 587)
+- POP3
+    - Post Office Protocol 
+    - Downloads emails, then deletes them
+    - Port 110(or 995 for POP3S)
+- IMAP
+    - Internet Message Access Protocol
+    - Advanced email synch
+    - Port 143 (or 993 for IMAPS)
+- MTA
+  - Mail Transfer Agent
+    - Route and transfer email messages across servers
+- MUA
+  - Mail User Agent
+  - Compose, send, receive, and manage emails
+  - Gmail, outlook, yahoo, etc
+- MDA
+  - Mail Delivery Agent
+  - Accepts incoming messages from MTAs
+- MSA
+  - Mail Submission Agent
+- MRA
+  - Mail Retrieval Agent
+
+
+
+Tools
+- Thunderbird Mail
+- Sublime
+
+Tricks:
+- To open a file from terminal:
+- `subl filename`
