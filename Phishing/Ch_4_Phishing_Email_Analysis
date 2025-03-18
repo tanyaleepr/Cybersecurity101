@@ -31,3 +31,6 @@ Email Header and Sender Analysis:
 1. Retrieve complete html from the email. Download message. Save as.
 2. Verify `From`,`Date`,`Message-ID`, `To`, `X-Sender-IP`
    1. `whois` IPAddress
+
+
+Email Authentication Methods:
